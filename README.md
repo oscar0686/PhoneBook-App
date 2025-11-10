@@ -39,4 +39,8 @@ This project allows users to **add, view, and delete contacts** in a clean and r
    ```bash
    git clone https://github.com/<your-username>/phonebook-app.git
    cd phonebook-app
-   Live Demo Vercel https://phone-book-app-two.vercel.app/
+
+   ## Live Demo
+
+Check out the live app here Firebase: [My App](https://my-app-87bc9.web.app)
+
